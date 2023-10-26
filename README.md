@@ -1,0 +1,2 @@
+# .github
+Allure Official Examples
