@@ -85,4 +85,8 @@ We welcome contributions! If you're interested in enhancing an example or adding
 1. Submit a pull request detailing your changes.
 1. Await a review.
 
-For questions & support, please use our [GitHub Discussions](https://github.com/orgs/allure-framework/discussions)
+## Support and Questions
+For questions or issues related directly to Allure, please refer to [GitHub Discussions](https://github.com/orgs/allure-framework/discussions).
+
+## License
+Unless otherwise specified in the individual repository, all repositories under this organization are licensed under the Apache 2.0 License.
