@@ -22,7 +22,6 @@ Allure Report — a flexible, lightweight multi-language HTML test reporting too
 - [JUnit with Maven](https://github.com/allure-examples/allure-junit-example)
 - [JUnit 5 with Gradle (Kotlin DSL)](https://github.com/allure-examples/allure-junit5-gradle-kts)
 - [JUnit 5 with Gradle](https://github.com/allure-examples/allure-junit5-gradle)
-- [Python Behave](https://github.com/allure-examples/allure-python-behave)
 - [JUnit 4 with Gradle (Kotlin DSL)](https://github.com/allure-examples/allure-junit4-gradle-kts)
 - [TestNG with Gradle (Kotlin DSL)](https://github.com/allure-examples/allure-testng-gradle-kts)
 - [JUnit 4 with Maven](https://github.com/allure-examples/allure-junit4-maven)
@@ -42,6 +41,7 @@ Allure Report — a flexible, lightweight multi-language HTML test reporting too
 
 ### Python
 - [Pytest](https://github.com/allure-examples/allure-python-pytest)
+- [Behave](https://github.com/allure-examples/allure-python-behave)
 
 ### Ruby
 - [RSpec](https://github.com/allure-examples/allure-rspec-example)
